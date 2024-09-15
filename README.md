@@ -38,7 +38,7 @@ Python: The entire application is written in Python using core libraries like ra
       
   - 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻:
       Clone the repository:
-      git clone https://github.com/abdullahsaqib100/password-generator.git
+      git clone https://github.com/abdullahsaqib100/python-random-password-generator.git
     
   - 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗶𝗿𝗲𝗰𝘁𝗼𝗿𝘆:
       cd password-generator
